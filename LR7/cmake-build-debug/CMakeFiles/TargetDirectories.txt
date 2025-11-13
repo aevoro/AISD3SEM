@@ -1,0 +1,3 @@
+D:/уник/аисд/LR7/cmake-build-debug/CMakeFiles/LR7.dir
+D:/уник/аисд/LR7/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/уник/аисд/LR7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
